@@ -98719,6 +98719,11 @@ return [[{
 				"name": "FX/DLC/XP1/Ambient/Generic/Debris/Vegetation/FX_Amb_DLC_Generic_FlyingPalmLeaves_01",
 				"partitionGuid": "8879B7FD-73C2-4602-B1FD-B97CFD01B306"
 			},
+			"originalRef": {
+				"instanceGuid": "810F41E0-FEC9-47CE-AB05-2B5CD23B5CF1",
+				"typeName": "EffectReferenceObjectData",
+				"partitionGuid": "37CB84EB-BC80-40AD-AE9D-AF1DCF77DF6A"
+			},
 			"origin": 1
 		},
 		{
